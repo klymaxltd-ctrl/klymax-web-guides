@@ -14,6 +14,10 @@ Le notebook examine un tableau CSV contenant les URL, les titres, les descriptio
 
 Le code utilise uniquement la bibliothèque standard de Python et ne contacte aucun site. Le fichier de démonstration contient trois pages fictives et permet de vérifier le fonctionnement avant d’utiliser un export réel.
 
-Klymax accompagne les entreprises dans la création et la refonte de sites vitrines et de boutiques en ligne. [Voir les services et les réalisations de Klymax](https://klymax.fr/).
+## Utiliser cet inventaire dans votre projet
+
+L’inventaire aide à formuler les points à revoir ; il ne remplace pas un [audit de site](https://klymax.fr/audit). Regroupez ensuite les pages par besoin du visiteur pour préparer [une maquette](https://klymax.fr/maquette).
+
+Ces décisions servent à définir le périmètre de la [création de votre site internet](https://klymax.fr/services/creation-site-internet). Vous pouvez aussi consulter les [réalisations de Klymax](https://klymax.fr/project/all_projects) pour voir des exemples de projets, sans les confondre avec les données fictives de ce notebook.
 
 Ressource préparée par Dan Zimmerman pour Klymax.
